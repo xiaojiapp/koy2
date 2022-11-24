@@ -8,5 +8,5 @@
 * 加密：none
 * 传输协议：ws
 * 伪装类型：none
-* 路径：/api-vless // 默认vless使用/api-vless，vmess使用/api-vmess，Trojan使用/api-Trojan
+* 路径：/uuid-vless // 默认vless使用/uuid-vless，vmess使用/uuid-vmess，Trojan使用/uuid-Trojan
 * 底层传输安全：tls
